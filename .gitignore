@@ -1,0 +1,8 @@
+/x64
+/ARM
+/Win32
+*.suo
+*.sdf
+*.opensdf
+
+/UserStreamService/ApiKey.h
